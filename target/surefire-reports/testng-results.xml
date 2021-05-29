@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11128" started-at="2021-05-29T03:52:23Z" finished-at="2021-05-29T03:52:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11128" started-at="2021-05-29T03:52:23Z" finished-at="2021-05-29T03:52:34Z">
+      <class name="com.blazedemo.TestCases.BlazeTestCases">
+        <test-method status="PASS" signature="selectCity(java.lang.String, java.lang.String)[pri:0, instance:com.blazedemo.TestCases.BlazeTestCases@70beb599]" name="selectCity" duration-ms="10431" started-at="2021-05-29T09:22:23Z" data-provider="providData" finished-at="2021-05-29T09:22:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCity -->
+        <test-method status="PASS" signature="postActivity()[pri:0, instance:com.blazedemo.TestCases.BlazeTestCases@70beb599]" name="postActivity" is-config="true" duration-ms="129" started-at="2021-05-29T09:22:34Z" finished-at="2021-05-29T09:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postActivity -->
+      </class> <!-- com.blazedemo.TestCases.BlazeTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10370" started-at="2021-05-29T09:20:17 IST" finished-at="2021-05-29T09:20:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10370" started-at="2021-05-29T09:20:17 IST" finished-at="2021-05-29T09:20:28 IST">
+      <class name="com.blazedemo.TestCases.BlazeTestCases">
+        <test-method status="PASS" signature="selectCity(java.lang.String, java.lang.String)[pri:0, instance:com.blazedemo.TestCases.BlazeTestCases@614ddd49]" name="selectCity" duration-ms="9896" started-at="2021-05-29T09:20:18 IST" data-provider="providData" finished-at="2021-05-29T09:20:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCity -->
+      </class> <!-- com.blazedemo.TestCases.BlazeTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
